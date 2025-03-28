@@ -1,12 +1,12 @@
-# Olá, eu sou o Rafael! 👋
+<h1 align="center">Rafael Vieira</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;" alt="Typing SVG" />
 </div>
 
 ## Sobre mim 🚀
 
-Me chamo Rafael Silva Vieira, tenho 22 anos e sou natural de Campinas - SP. Atualmente, estou cursando Ciência da Computação na UTFPR e busco oportunidades para evoluir cada vez mais dentro da área de TI.
+Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atualmente, estou cursando Ciência da Computação na UTFPR e busco oportunidades para evoluir cada vez mais dentro da área de TI.
 
 ## Portfólio 🌐
 
