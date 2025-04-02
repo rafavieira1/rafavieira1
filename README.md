@@ -28,10 +28,9 @@ Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atualmente
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </div>
 
-## GitHub Stats 📊
+### GitHub Stats 📊
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafavieira1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavieira1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Languages"/>
 </div>
 
