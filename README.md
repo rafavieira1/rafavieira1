@@ -42,5 +42,8 @@ Olá! Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atua
 ### GitHub Stats 📊
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafavieira1&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavieira1&layout=compact&theme=radical" alt="Top Languages"/>
+<br>
   <img src="https://komarev.com/ghpvc/?username=rafavieira1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
