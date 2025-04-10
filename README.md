@@ -6,7 +6,7 @@
 
 ## Sobre mim 🚀
 
-Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atualmente, estou cursando Ciência da Computação na UTFPR e busco oportunidades para evoluir cada vez mais dentro da área de TI.
+Olá! Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atualmente, curso Ciência da Computação na UTFPR, onde venho desenvolvendo uma base sólida em tecnologia e inovação. Estou sempre em busca de me aprimorar, explorando novas tecnologias e ferramentas que possam expandir meus conhecimentos. Gosto de resolver problemas e transformar ideias em soluções reais dentro da área de TI.
 
 ## Portfólio 🌐
 
@@ -28,12 +28,6 @@ Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atualmente
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </div>
 
-### GitHub Stats 📊
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavieira1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Languages"/>
-</div>
-
 ## Contato 📫
 
 <div align="center">
@@ -45,7 +39,8 @@ Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atualmente
   </a>
 </div>
 
----
+### GitHub Stats 📊
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafavieira1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
