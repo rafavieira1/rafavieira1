@@ -30,12 +30,12 @@ Olá! Me chamo Rafael Vieira, tenho 22 anos e sou natural de Campinas - SP. Atua
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=rafavieira1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&text_color=ffffff&icon_color=007ACC&count_private=true&include_all_commits=true" alt="GitHub Stats"/><img width="470" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavieira1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img width="390" height="160" src="https://github-readme-stats.vercel.app/api?username=rafavieira1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&text_color=ffffff&icon_color=007ACC&count_private=true&include_all_commits=true" alt="GitHub Stats"/><img width="390" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavieira1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafavieira1&bg_color=0D1117&color=007ACC&line=007ACC&point=ffffff&area=true&hide_border=true" alt="Gráfico de Contribuição"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafavieira1&bg_color=0D1117&color=007ACC&line=007ACC&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 
