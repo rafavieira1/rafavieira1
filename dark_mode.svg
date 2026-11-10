@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1202" height="838" viewBox="0 0 1202 838" xml:space="preserve" role="img" aria-labelledby="t">
+<title id="t">rafavieira1@github: neofetch de Rafael Vieira</title>
+<style>
+text{font-family:'JetBrains Mono','Cascadia Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
+.a{font-size:8px;fill:#c9d1d9}
+.l{font-size:16px}
+.w{font-size:13px;fill:#7d8590}
+.titulo{fill:#e6edf3;font-weight:600}
+.chave{fill:#ffa657}.valor{fill:#a5d6ff}
+.numero{fill:#79c0ff}.ponto{fill:#616e7f}.arte{fill:#c9d1d9}
+.cursor{animation:pisca 1.1s steps(1) infinite}
+@keyframes pisca{50%{fill-opacity:0}}
+@media (prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<defs><clipPath id="janela"><rect x="0.5" y="0.5" width="1201" height="837" rx="10"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="1201" height="837" rx="10" fill="#161b22"/>
+<rect width="1202" height="36" fill="#1f2630" clip-path="url(#janela)"/>
+<line x1="0" y1="36.5" x2="1202" y2="36.5" stroke="#30363d"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="18" r="6" fill="#febc2e"/>
+<circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="601" y="23" class="w" text-anchor="middle">rafavieira1@github: ~</text>
+<text x="24" y="68" class="l" textLength="288"><tspan class="valor">rafavieira1@github</tspan><tspan class="ponto">:~$ </tspan><tspan class="arte">neofetch</tspan></text>
+<text x="24" y="100" class="a" textLength="307.2"><tspan class="arte">                                                             _.:</tspan></text>
+<text x="24" y="109.6" class="a" textLength="364.8"><tspan class="arte">                                                  ._---ggggooooooxxu------_.</tspan></text>
+<text x="24" y="119.2" class="a" textLength="398.4"><tspan class="arte">                                         __-----ggo@@@ooooQU$oo@o@oo@ooooooooou---.</tspan></text>
+<text x="24" y="128.8" class="a" textLength="412.8"><tspan class="arte">                                    \jgo@o@@@@@oo@@ooo@@@@@@ooooo$$ooooooxuxxxxooowx_.</tspan></text>
+<text x="24" y="138.4" class="a" textLength="427.2"><tspan class="arte">                                __xooooooo@@o@ooooooooooQooo@o@ooooo@@o@oowwxxxxxoxxxxu_.</tspan></text>
+<text x="24" y="148" class="a" textLength="432"><tspan class="arte">                              \jxxjjvwQoooxww$@@@@@@@@@oooowwwxoxxxvv=!!==xxxxxwnnvv1oxxx_</tspan></text>
+<text x="24" y="157.6" class="a" textLength="441.6"><tspan class="arte">                            \jxxxxj::jjxxoo@ooo@ooo@oo@o@oooguxxxoxxxxxu_;jj:!!jjj_jjjjjxxu/</tspan></text>
+<text x="24" y="167.2" class="a" textLength="451.2"><tspan class="arte">                        _jxxooougxxxxuxjxxwooo@@@@ooxwXwxxxxoowxoxxuxxxxxxxu;ugj:j=j==vxxoox/.</tspan></text>
+<text x="24" y="176.8" class="a" textLength="465.6"><tspan class="arte">                     ._jxjjuooooooooooogoggggooooooU$xuu;j:)vxx1wooxjjjjxxxxo*jjjjjjjjxxxxxooxu_,</tspan></text>
+<text x="24" y="186.4" class="a" textLength="475.2"><tspan class="arte">                     |xogxw$ooooooooooooooooo@@o@oooxxxxxxjv=::'::::::::::jjjjjxv=:jjjjjjxxooxxox::</tspan></text>
+<text x="24" y="196" class="a" textLength="475.2"><tspan class="arte">                   .\xxoxou;j===xxjxxuxooo@@@oo@wwxxxxxxxxxxjjjjjjjjjj!!:__;jj::   iujjxjjxooooxoj:</tspan></text>
+<text x="24" y="205.6" class="a" textLength="484.8"><tspan class="arte">                   xxxaoooooxuuxjjjxxxxxxxxjxv=::  :::::!jj=j!=jj!=jjjxxxxov=:;: ::jxjjjjjjaooxoox;::</tspan></text>
+<text x="24" y="215.2" class="a" textLength="489.6"><tspan class="arte">              ____\oooyj+v1xjvnxxjjjjjj!!'::           :    :':: :    :::::::!`j:::j:::j:jjjaoxxooox::</tspan></text>
+<text x="24" y="224.8" class="a" textLength="484.8"><tspan class="arte">           `__xoooooooxjj:_:::::::'    :::::::::::::::: ::::                  :|| :  :::::::jj|ooooo|</tspan></text>
+<text x="24" y="234.4" class="a" textLength="489.6"><tspan class="arte">            |xoooooooooxxxxxj!::    ::::::::::::::::::::::::::            :::  j::     :::::!'jjxaoo||</tspan></text>
+<text x="24" y="244" class="a" textLength="489.6"><tspan class="arte">             /ooooxxvjjj:j:::  : ::::::::::::::::::::::::::::::::      ::::   :: :  :    ::::::jjxxxx|</tspan></text>
+<text x="24" y="253.6" class="a" textLength="489.6"><tspan class="arte">              '/oxjj:j:::::::::::::::::::::::::::::::::::::::::::::       : :   :           :::jjjjxx|</tspan></text>
+<text x="24" y="263.2" class="a" textLength="489.6"><tspan class="arte">                 '!j:::::::::::::::::::::::::::j:::::::::j:jjj:::::::: ::                     :::jjx''</tspan></text>
+<text x="24" y="272.8" class="a" textLength="480"><tspan class="arte">                   '::::j:::::::::::::::::::::::::::::jjjjjjjjjjj::::::: : :               :  :::jj|</tspan></text>
+<text x="24" y="282.4" class="a" textLength="475.2"><tspan class="arte">                     ':::j:::::::::::::::::::::::::::j:j:jjjjjjjjjjj::::::::::: : :  :     :    !jj</tspan></text>
+<text x="24" y="292" class="a" textLength="475.2"><tspan class="arte">                        :::::::::::::::::::::::::::::jjjjjjjjjjjjjjjjj:::::::::::::::::: ::   :::j|</tspan></text>
+<text x="24" y="301.6" class="a" textLength="475.2"><tspan class="arte">                      .:     ::j::j:::                ::jjjjjjjjjjjjjjj:::::::::::::::::: :  : :jj|</tspan></text>
+<text x="24" y="311.2" class="a" textLength="470.4"><tspan class="arte">                      ::      :j::j::       ::.::::j::::::jjjjjjjjjjjjj::::j::::j:::::j:::   ::jj|</tspan></text>
+<text x="24" y="320.8" class="a" textLength="465.6"><tspan class="arte">                       j::::::jj::jjj:::::::::::jjjjjjjjjjjjjjjjjjjjjjj::j:::jjj:jj::jjx;:: :::jj</tspan></text>
+<text x="24" y="330.4" class="a" textLength="465.6"><tspan class="arte">                       j::: :::::::jjjj:::     :::::::jjjjjjjjjjjjjjjjjj:::jjjjjjjjjjj:jx|::::jj`</tspan></text>
+<text x="24" y="340" class="a" textLength="460.8"><tspan class="arte">                        :   :: :j::jj::::      j_.: ::::::jjjjjjjjjjjjjj::j:jjjjjjjjjjj:|x::::j`</tspan></text>
+<text x="24" y="349.6" class="a" textLength="456"><tspan class="arte">                         j:'' _j:j::::: :     ::::::::::j::jjjjjjjjjjjjjjjjjjjjjjjj:jjjj:i;::j`</tspan></text>
+<text x="24" y="359.2" class="a" textLength="451.2"><tspan class="arte">                        |j:::jjjjjjj:::::    :::::::::::jjjjjjjjjjjjjjxxjjjjjjjjjj::::jj:jcjj'</tspan></text>
+<text x="24" y="368.8" class="a" textLength="446.4"><tspan class="arte">                        jj:|xjjjjjjjjj::::::::::::::::j:jjjjjjjjjjjjjjxxxjjjxjjjj:::::::jixz`</tspan></text>
+<text x="24" y="378.4" class="a" textLength="441.6"><tspan class="arte">                       |xxxxjjjjjjjjjjj:::::::::::::j:jjjjjjjjjjjjjjjjjxjjjxxjjj:::::::jjx\`</tspan></text>
+<text x="24" y="388" class="a" textLength="436.8"><tspan class="arte">                       |xxxjjjjjjjjjjj:j:j::::j:jjjjjjjjjjjjjjjjjjxxjjjjjjjxjjjj:.jjjjj|xy\</tspan></text>
+<text x="24" y="397.6" class="a" textLength="427.2"><tspan class="arte">                       jxxjjjjjjjjjjjjjj:::j:j::j:jjjjjjjjjjjjjjjjjxjjjxjjjjjjjjjjjjjjjx\</tspan></text>
+<text x="24" y="407.2" class="a" textLength="422.4"><tspan class="arte">                       jxjjjjjjjjjjjjjjj::::::jj:jjjjjjjjjjjjjjjjjjjxjjxxjjjjjjjjjjjxxx\</tspan></text>
+<text x="24" y="416.8" class="a" textLength="417.6"><tspan class="arte">                       jjjjjjjj:::::::!:::j::::jjjjjjjjjjjjjjjjjjjjjjxjxxxxxxjjjjxxxxj'</tspan></text>
+<text x="24" y="426.4" class="a" textLength="412.8"><tspan class="arte">                       |jjjjjjjjj::::::::::::::::jjjjjjjjjjjjjjjjjjjjxxxxxxxxjjxxxxx)`</tspan></text>
+<text x="24" y="436" class="a" textLength="403.2"><tspan class="arte">                        jj:j:::::: :::::::::::::::::jjjjjjjjjjjjjjjjxxxxxxxxxxxxxxx\</tspan></text>
+<text x="24" y="445.6" class="a" textLength="398.4"><tspan class="arte">                        |jj:        :::::::::::   :::jjjjjjjjjjjjjjjjxxxxxxxxxxxxx:</tspan></text>
+<text x="24" y="455.2" class="a" textLength="393.6"><tspan class="arte">                         !jjjj:::::::::jj:jjjj:j::::j:jjjjjjjjjjjjjjxxxxxxxxxxxxx|</tspan></text>
+<text x="24" y="464.8" class="a" textLength="393.6"><tspan class="arte">                          !jj!=jj:j::::::::::    :::jjjjjjjjjjjjjjjxxxxxxxxxxxxxx|</tspan></text>
+<text x="24" y="474.4" class="a" textLength="388.8"><tspan class="arte">                           j::|jjjjxjjjjjj:    .:::jjjjjjjjjjjjjjjjxxxxxxxxxxxxxx</tspan></text>
+<text x="24" y="484" class="a" textLength="388.8"><tspan class="arte">                           'jj;!!-==---: :::::jj:jjjjjjjjjjjjjjjjjjxxxxxxxxxxxxx|</tspan></text>
+<text x="24" y="493.6" class="a" textLength="388.8"><tspan class="arte">                            |j::: : : :::::jjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxxxxx|</tspan></text>
+<text x="24" y="503.2" class="a" textLength="388.8"><tspan class="arte">                             |::::::::::jjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxxxxxx|</tspan></text>
+<text x="24" y="512.8" class="a" textLength="388.8"><tspan class="arte">                             |xjjj:::::jjjjjjjj:j::jjjjjjjjjjjjjjxxxxxxxxxxxxxxx|</tspan></text>
+<text x="24" y="522.4" class="a" textLength="388.8"><tspan class="arte">                              |jj:     :::j:::j:jj:jjjjjjjjjjjjjjjjxxxxxxxxxxxxx|</tspan></text>
+<text x="24" y="532" class="a" textLength="388.8"><tspan class="arte">                              |j:    ::::::::j:::jjjjjjjjjjjjjjjjjjjxxxxxxxxxxxo;</tspan></text>
+<text x="24" y="541.6" class="a" textLength="412.8"><tspan class="arte">                              |j::  :: ::::::::j::j:jjjjjjjjjjjjjjjjjjjjjjxxxxxoooog-_</tspan></text>
+<text x="24" y="551.2" class="a" textLength="432"><tspan class="arte">                             \y:::::  : : : : ::::jjjjjjjjjjjjjjjjjjjjjjjjxxxxxoooxooo@g//</tspan></text>
+<text x="24" y="560.8" class="a" textLength="441.6"><tspan class="arte">                          \\@@|::    :   :  ::    :jjjjjjjjjjjjjjjjjjjjjjxxxxxxooxxxxxxo@@//</tspan></text>
+<text x="24" y="570.4" class="a" textLength="451.2"><tspan class="arte">                       \\g@@@@@x::           :  :.:jjjjjjjjjjjjjjjjjjjjjjxxxxxxooopxxxxxxo@@//</tspan></text>
+<text x="24" y="580" class="a" textLength="460.8"><tspan class="arte">                    \\@@@@@@@@@|ugg/;.::: ::..:jjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxoooo&amp;;:jxxxxg@@//</tspan></text>
+<text x="24" y="589.6" class="a" textLength="470.4"><tspan class="arte">                 \\@@@@@@@o@@@oqooooxjjjjjjjjjjjjjjjjjjjjjjjjjxxjjjjjjxxxjxxxxxxooogogj@@@@@o@@@//</tspan></text>
+<text x="24" y="599.2" class="a" textLength="484.8"><tspan class="arte">               \\@@@@@@@@@@o@@pooooxjjjjjjjjjjjjjjjjjjjjjjjjxxxjjjjjjjxxxxxxxxxxxoo@oo@g@@@@@oo@@@g//</tspan></text>
+<text x="24" y="608.8" class="a" textLength="508.8"><tspan class="arte">            \\g@@@@@@@@@o@o@o@yxxxxjjjjjjjjjjjjjjjjjjjjjjjjjxjxjjjjjjjxxxxxxxxxxxxxoo@oo@@@@@@@o@@@@@@g--,</tspan></text>
+<text x="24" y="618.4" class="a" textLength="528"><tspan class="arte">         \\@@@@@@@@@@@@@@oo@@opjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxxxxxoooo@o@oo@oooo@@@@@@@@@g_/</tspan></text>
+<text x="24" y="628" class="a" textLength="537.6"><tspan class="arte">     __-g@@@o@ooooo@@@o@@ooox@@xjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxxxxxxooo@@@@o@@@@oo@@ooo@@@@@@//</tspan></text>
+<text x="24" y="637.6" class="a" textLength="547.2"><tspan class="arte"> --go@@@@@@@@@@@@@@@@@@ooo@ooo@pjjxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxjjjxxxxxxxjxog@@o@ooooooo@@@@@@@oo@@@@@@//</tspan></text>
+<text x="24" y="647.2" class="a" textLength="561.6"><tspan class="arte">@ooo@@@@@o@@@@ooo@@@oooooooooxo@/xxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjx@@o@@ooo@o@oxxo$oo@@@@@@@@@@@@g//</tspan></text>
+<text x="24" y="656.8" class="a" textLength="576"><tspan class="arte">oo@o@@@@@@@@@o@@@o@@@o@goooogxjaQgxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|oo@poxoxxxxxxxxxaQo@o@@@@@@oUUo@@@g-</tspan></text>
+<text x="24" y="666.4" class="a" textLength="576"><tspan class="arte">oo@@@@ooQooo@@@@@@o@@@ooooxxxxxog@gxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj::xxo@pxagggggxxooxxxxaX--*=jjqgg@@@@@@@</tspan></text>
+<text x="24" y="676" class="a" textLength="576"><tspan class="arte">xxjj==*VXXoooooooooooooo@ooxxxxxgo@|j:::j:jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:_xxxxoxggao@@gooooovjjj::::jjjg@@@@@@@@@</tspan></text>
+<text x="24" y="685.6" class="a" textLength="576"><tspan class="arte">jjjjjj:::::j:::::jjjjjvo$o@oo@o@o@@pxjj:::::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj::|xxxxxxgoo@@o@@@@ggg/jxj:jjjjxxoo@@@@@@@@</tspan></text>
+<text x="24" y="695.2" class="a" textLength="576"><tspan class="arte">jjjjjjjjjjj:::::::::::|@ggoogoo@xoxxxxx;j::::::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:|xxxxxxo@@o@@@o@@@@@@@xxjjjjjxxg@oooo@o@@@</tspan></text>
+<text x="24" y="704.8" class="a" textLength="576"><tspan class="arte">jjjjjjxjjjjj::j::j:j:jjqoo@@@@@ogoxxxxxxxjj::j::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxao@ooo@@@g@@o@xxxjjjjxxxoo@ooooooo@</tspan></text>
+<text x="24" y="714.4" class="a" textLength="576"><tspan class="arte">jjjjjjjjjjjjj:jj:jj:::jj$g@oo@o@ooxxxxxxxxjjj:j:jjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxQoxao@pUIjxxxxxxjjjxxxooooooooooo</tspan></text>
+<text x="24" y="724" class="a" textLength="576"><tspan class="arte">jjjjjjjjjjjjjjjjjjjjj:jjjj1UUqoooxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxjjjxxxoxxxxxjjjxxxxxxjjjxxxxxxooxxxxxx</tspan></text>
+<text x="24" y="733.6" class="a" textLength="576"><tspan class="arte">::jjjjxjjjjjjjjjjjjj:j:jjjjjjj1ooxxxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxjjjxxooxxjjjjxxxxxxxjjxxxxxxxxxxxxxxx</tspan></text>
+<text x="24" y="743.2" class="a" textLength="576"><tspan class="arte">::::jjjxjjjjjjjjjjjjjjjjjjjjjjj1$xxxxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxjjxxxxjjjjxxxxjjjjxxxxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
+<text x="24" y="752.8" class="a" textLength="576"><tspan class="arte">::::|jjjxjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxxxxxujjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxjxxxxxjjjjxxxxxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
+<text x="24" y="762.4" class="a" textLength="576"><tspan class="arte">:::::jjjxjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjxjxxjxxxxxxxjjjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
+<text x="24" y="772" class="a" textLength="576"><tspan class="arte">::::::jjxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxxxxxxxxxjjjjjjjjjjjjjjjjjj:jjjjxxxxxxxxxxjjjjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
+<text x="640" y="141" class="l" textLength="537.6"><tspan class="titulo">rafavieira1@github</tspan><tspan class="ponto"> ─────────────────────────────────────</tspan></text>
+<text x="640" y="161" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">OS:</tspan><tspan class="ponto"> ....................................... </tspan><tspan class="valor">Windows 11</tspan></text>
+<text x="640" y="181" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Uptime:</tspan><tspan class="ponto"> .................... </tspan><tspan class="valor">23 anos, 11 meses, 7 dias</tspan></text>
+<text x="640" y="201" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Host:</tspan><tspan class="ponto"> ............................... </tspan><tspan class="valor">UTFPR Medianeira</tspan></text>
+<text x="640" y="221" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Kernel:</tspan><tspan class="ponto"> ........................ </tspan><tspan class="valor">Ciência da Computação</tspan></text>
+<text x="640" y="241" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">IDE:</tspan><tspan class="ponto"> ......................................... </tspan><tspan class="valor">VS Code</tspan></text>
+<text x="640" y="261" class="l" textLength="9.6"><tspan class="ponto">.</tspan></text>
+<text x="640" y="281" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Linguagens.Código:</tspan><tspan class="ponto"> .......... </tspan><tspan class="valor">TypeScript, Python, Java</tspan></text>
+<text x="640" y="301" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Linguagens.Web:</tspan><tspan class="ponto"> ..................... </tspan><tspan class="valor">React, HTML, CSS</tspan></text>
+<text x="640" y="321" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Ferramentas:</tspan><tspan class="ponto"> ............................. </tspan><tspan class="valor">Git, Docker</tspan></text>
+<text x="640" y="341" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Origem:</tspan><tspan class="ponto"> ................................. </tspan><tspan class="valor">Campinas, SP</tspan></text>
+<text x="640" y="361" class="l" textLength="9.6"><tspan class="ponto">.</tspan></text>
+<text x="640" y="381" class="l" textLength="537.6"><tspan class="ponto">─ </tspan><tspan class="titulo">Contato</tspan><tspan class="ponto"> ──────────────────────────────────────────────</tspan></text>
+<text x="640" y="401" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Site:</tspan><tspan class="ponto"> ...................... </tspan><tspan class="valor">rafavieiradev.netlify.app</tspan></text>
+<text x="640" y="421" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Email:</tspan><tspan class="ponto"> ....................... </tspan><tspan class="valor">rafasvieira01@gmail.com</tspan></text>
+<text x="640" y="441" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">LinkedIn:</tspan><tspan class="ponto"> ........................ </tspan><tspan class="valor">rafael-silva-vieira</tspan></text>
+<text x="640" y="461" class="l" textLength="9.6"><tspan class="ponto">.</tspan></text>
+<text x="640" y="481" class="l" textLength="537.6"><tspan class="ponto">─ </tspan><tspan class="titulo">GitHub</tspan><tspan class="ponto"> ───────────────────────────────────────────────</tspan></text>
+<text x="640" y="501" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Repos públicos:</tspan><tspan class="ponto"> ................................... </tspan><tspan class="numero">10</tspan></text>
+<text x="640" y="521" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Pull requests:</tspan><tspan class="ponto"> .................................... </tspan><tspan class="numero">21</tspan></text>
+<text x="640" y="541" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Contribuições (total):</tspan><tspan class="ponto"> ......................... </tspan><tspan class="numero">2.679</tspan></text>
+<text x="640" y="561" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Membro desde:</tspan><tspan class="ponto"> ............................... </tspan><tspan class="valor">mar 2022</tspan></text>
+<text x="640" y="581" class="l" textLength="9.6"><tspan class="ponto">.</tspan></text>
+<text x="640" y="601" class="l" textLength="537.6"><tspan class="ponto">─ </tspan><tspan class="titulo">Últimos 12 meses</tspan><tspan class="ponto"> ─────────────────────────────────────</tspan></text>
+<text x="640" y="621" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Contribuições:</tspan><tspan class="ponto"> ................................. </tspan><tspan class="numero">2.470</tspan></text>
+<text x="640" y="641" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Maior sequência:</tspan><tspan class="ponto"> ............................. </tspan><tspan class="numero">19 dias</tspan></text>
+<text x="640" y="661" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Linguagens:</tspan><tspan class="ponto"> ....... </tspan><tspan class="valor">TypeScript 77% · Java 14% · CSS 4%</tspan></text>
+<rect x="640.0" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="650.1" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="660.3" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="670.4" y="717.0" width="7.1" height="4" rx="1.5" fill="#0c2d6b"/>
+<rect x="680.6" y="717.0" width="7.1" height="4" rx="1.5" fill="#0c2d6b"/>
+<rect x="690.7" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="700.9" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="711.0" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="721.1" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="731.3" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="741.4" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="751.6" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="761.7" y="717.0" width="7.1" height="4" rx="1.5" fill="#0c2d6b"/>
+<rect x="771.9" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="782.0" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="792.2" y="717.0" width="7.1" height="4" rx="1.5" fill="#0c2d6b"/>
+<rect x="802.3" y="714.0" width="7.1" height="7" rx="1.5" fill="#0c2d6b"/>
+<rect x="812.4" y="712.0" width="7.1" height="9" rx="1.5" fill="#0c2d6b"/>
+<rect x="822.6" y="717.0" width="7.1" height="4" rx="1.5" fill="#0c2d6b"/>
+<rect x="832.7" y="712.0" width="7.1" height="9" rx="1.5" fill="#0c2d6b"/>
+<rect x="842.9" y="706.0" width="7.1" height="15" rx="1.5" fill="#0c2d6b"/>
+<rect x="853.0" y="704.0" width="7.1" height="17" rx="1.5" fill="#0c2d6b"/>
+<rect x="863.2" y="702.0" width="7.1" height="19" rx="1.5" fill="#0c2d6b"/>
+<rect x="873.3" y="705.0" width="7.1" height="16" rx="1.5" fill="#0c2d6b"/>
+<rect x="883.4" y="707.0" width="7.1" height="14" rx="1.5" fill="#0c2d6b"/>
+<rect x="893.6" y="694.0" width="7.1" height="27" rx="1.5" fill="#1158c7"/>
+<rect x="903.7" y="710.0" width="7.1" height="11" rx="1.5" fill="#0c2d6b"/>
+<rect x="913.9" y="696.0" width="7.1" height="25" rx="1.5" fill="#1158c7"/>
+<rect x="924.0" y="705.0" width="7.1" height="16" rx="1.5" fill="#0c2d6b"/>
+<rect x="934.2" y="688.0" width="7.1" height="33" rx="1.5" fill="#388bfd"/>
+<rect x="944.3" y="709.0" width="7.1" height="12" rx="1.5" fill="#0c2d6b"/>
+<rect x="954.4" y="701.0" width="7.1" height="20" rx="1.5" fill="#1158c7"/>
+<rect x="964.6" y="677.0" width="7.1" height="44" rx="1.5" fill="#79c0ff"/>
+<rect x="974.7" y="708.0" width="7.1" height="13" rx="1.5" fill="#0c2d6b"/>
+<rect x="984.9" y="705.0" width="7.1" height="16" rx="1.5" fill="#0c2d6b"/>
+<rect x="995.0" y="700.0" width="7.1" height="21" rx="1.5" fill="#1158c7"/>
+<rect x="1005.2" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="1015.3" y="717.0" width="7.1" height="4" rx="1.5" fill="#0c2d6b"/>
+<rect x="1025.4" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="1035.6" y="719.0" width="7.1" height="2" rx="1.5" fill="#21262d"/>
+<rect x="1045.7" y="712.0" width="7.1" height="9" rx="1.5" fill="#0c2d6b"/>
+<rect x="1055.9" y="698.0" width="7.1" height="23" rx="1.5" fill="#1158c7"/>
+<rect x="1066.0" y="689.0" width="7.1" height="32" rx="1.5" fill="#388bfd"/>
+<rect x="1076.2" y="698.0" width="7.1" height="23" rx="1.5" fill="#1158c7"/>
+<rect x="1086.3" y="699.0" width="7.1" height="22" rx="1.5" fill="#1158c7"/>
+<rect x="1096.5" y="698.0" width="7.1" height="23" rx="1.5" fill="#1158c7"/>
+<rect x="1106.6" y="677.0" width="7.1" height="44" rx="1.5" fill="#79c0ff"/>
+<rect x="1116.7" y="692.0" width="7.1" height="29" rx="1.5" fill="#1158c7"/>
+<rect x="1126.9" y="694.0" width="7.1" height="27" rx="1.5" fill="#1158c7"/>
+<rect x="1137.0" y="696.0" width="7.1" height="25" rx="1.5" fill="#1158c7"/>
+<rect x="1147.2" y="691.0" width="7.1" height="30" rx="1.5" fill="#388bfd"/>
+<rect x="1157.3" y="685.0" width="7.1" height="36" rx="1.5" fill="#388bfd"/>
+<rect x="1167.5" y="706.0" width="7.1" height="15" rx="1.5" fill="#0c2d6b"/>
+<text x="640" y="739" class="l" textLength="57.6" style="font-size:12px"><tspan class="ponto">nov 2025</tspan></text>
+<text x="1120" y="739" class="l" textLength="57.6" style="font-size:12px"><tspan class="ponto">nov 2026</tspan></text>
+<text x="24" y="816" class="l" textLength="220.8"><tspan class="valor">rafavieira1@github</tspan><tspan class="ponto">:~$ </tspan><tspan class="valor cursor">█</tspan></text>
+<rect x="0.5" y="0.5" width="1201" height="837" rx="10" fill="none" stroke="#30363d"/>
+</svg>

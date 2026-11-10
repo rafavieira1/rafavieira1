@@ -1,0 +1,40 @@
+name: neofetch
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 03:00 (Brasília)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/neofetch.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Gerar dark_mode.svg e light_mode.svg
+        run: python scripts/neofetch.py
+        env:
+          # Opcional: com o secret NEOFETCH_TOKEN (token pessoal só leitura),
+          # PRs em repositórios privados também entram na contagem.
+          GH_TOKEN: ${{ secrets.NEOFETCH_TOKEN || github.token }}
+
+      - name: Commitar se mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          git diff --cached --quiet || git commit -m "chore: atualiza neofetch"
+          git push
