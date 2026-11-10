@@ -111,14 +111,14 @@ text{font-family:'JetBrains Mono','Cascadia Mono','SF Mono',Menlo,Consolas,'Deja
 <text x="640" y="461" class="l" textLength="9.6"><tspan class="ponto">.</tspan></text>
 <text x="640" y="481" class="l" textLength="537.6"><tspan class="ponto">─ </tspan><tspan class="titulo">GitHub</tspan><tspan class="ponto"> ───────────────────────────────────────────────</tspan></text>
 <text x="640" y="501" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Repos públicos:</tspan><tspan class="ponto"> ................................... </tspan><tspan class="numero">10</tspan></text>
-<text x="640" y="521" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Pull requests:</tspan><tspan class="ponto"> .................................... </tspan><tspan class="numero">21</tspan></text>
+<text x="640" y="521" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Pull requests:</tspan><tspan class="ponto"> ..................................... </tspan><tspan class="numero">9</tspan></text>
 <text x="640" y="541" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Contribuições (total):</tspan><tspan class="ponto"> ......................... </tspan><tspan class="numero">2.679</tspan></text>
 <text x="640" y="561" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Membro desde:</tspan><tspan class="ponto"> ............................... </tspan><tspan class="valor">mar 2022</tspan></text>
 <text x="640" y="581" class="l" textLength="9.6"><tspan class="ponto">.</tspan></text>
 <text x="640" y="601" class="l" textLength="537.6"><tspan class="ponto">─ </tspan><tspan class="titulo">Últimos 12 meses</tspan><tspan class="ponto"> ─────────────────────────────────────</tspan></text>
 <text x="640" y="621" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Contribuições:</tspan><tspan class="ponto"> ................................. </tspan><tspan class="numero">2.470</tspan></text>
 <text x="640" y="641" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Maior sequência:</tspan><tspan class="ponto"> ............................. </tspan><tspan class="numero">19 dias</tspan></text>
-<text x="640" y="661" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Linguagens:</tspan><tspan class="ponto"> ....... </tspan><tspan class="valor">TypeScript 77% · Java 14% · CSS 4%</tspan></text>
+<text x="640" y="661" class="l" textLength="537.6"><tspan class="ponto">. </tspan><tspan class="chave">Linguagens:</tspan><tspan class="ponto"> ....... </tspan><tspan class="valor">TypeScript 75% · Java 14% · CSS 3%</tspan></text>
 <rect x="640.0" y="719.0" width="7.1" height="2" rx="1.5" fill="#e1e4e8"/>
 <rect x="650.1" y="719.0" width="7.1" height="2" rx="1.5" fill="#e1e4e8"/>
 <rect x="660.3" y="719.0" width="7.1" height="2" rx="1.5" fill="#e1e4e8"/>
